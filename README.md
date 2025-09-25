@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Islam+Adel+Kadous;Experienced+Software+Engineer;Building+Scalable+Solutions;Passionate+about+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Islam+Adel+Kadous;Experienced+Software+Engineer;Building+Scalable+Solutions+in+Banking+%26+Web;Passionate+about+Innovation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -113,15 +113,13 @@ Welcome to my GitHub! With over 5 years of hands-on experience, I specialize in 
 
 ## 📫 Get in Touch
 
+- 📍 Alexandria, Egypt
 - 💼 [LinkedIn](https://www.linkedin.com/in/islam-kadous-b3a08b1bb)
-- 🐦 [X (Twitter)](https://x.com/islamadelkadous)
+- 🐦 [X](https://x.com/islamadelkadous)
 - ✉️ [Email](mailto:islamadelkadous@gmail.com)
-- 📞 [+201283840182](tel:+201283840182)
+- 🌐 [Portfolio](https://islamadelkadous.github.io/my-portfolio/)
+- 📞 [Mobile](tel:+201283840182)
 
 ---
 
 ⭐️ **Fun Fact**: I'm a Sagittarius who loves tackling LeetCode challenges and building AI-driven apps in my spare time!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/islamadelkadous/islamadelkadous/output/snake.svg" alt="Snake Animation" />
-</p>
