@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Islam+Adel+Kadous;Experienced+Software+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Islam+Adel+Kadous;Experienced+Software+Engineer;Building+Scalable+Solutions+in+Banking+%26+Web;Passionate+about+Innovation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Welcome to my GitHub! With over 5 years of hands-on experience, I specialize in 
 
 ### [Ready Voyage](https://github.com/islamadelkadous/ready-voyage) (Graduation Project)
 ![GitHub stars](https://img.shields.io/github/stars/islamadelkadous/ready-voyage?style=social)
-- **Description**: A mobile app that plans custom trips based on user preferences, budget, and destination. Features a ML-powered recommendation system.
+- **Description**: A mobile app that plans custom trips based on user preferences, budget, and destination, featuring an ML-powered recommendation system.
 - **Tech**: Flutter, Django, Machine Learning
 - **Link**: [🔗 View Repository](https://github.com/islamadelkadous/ready-voyage)
 
@@ -88,16 +88,16 @@ Welcome to my GitHub! With over 5 years of hands-on experience, I specialize in 
 
 - **Software Engineer** @ EJADA, Riyadh, Saudi Arabia (Aug 2022 – Present)
   - Spearheaded backend development for critical governmental systems, enhancing efficiency for the Ministry of Human Resources.
-  - Drove creation of a digital banking platform for Al-Rajhi Bank, transforming customer experience.
-  - Led confidential banking projects with focus on security and compliance.
-  - Contributed to KSA’s Open Banking initiative using Java, Spring Boot, and Microservices.
-  - Developed secure consent management system with PostgreSQL.
-  - Integrated third-party APIs for enhanced functionality.
+  - Drove the successful creation of a high-performance digital banking platform for Al-Rajhi Bank, implementing advanced features.
+  - Led development of confidential banking projects, ensuring security and regulatory compliance.
+  - Played a pivotal role in KSA’s Open Banking initiative using Java, Spring Boot, and Microservices.
+  - Developed and deployed a secure consent management system with PostgreSQL.
+  - Integrated third-party APIs to boost platform functionality and user satisfaction.
 
 - **Software Engineer** @ ERA Solutions, Alexandria, Egypt (Jun 2020 – Jul 2022)
-  - Developed 20+ websites and optimized 100+ for performance, achieving 40% faster load times.
+  - Developed over 20 websites and enhanced performance of 100+ websites, achieving 40% faster load times.
   - Specialized in full-stack development with PHP, JavaScript (React, Angular), WordPress, Shopify, WooCommerce.
-  - Translated client requirements into scalable solutions.
+  - Translated complex client requirements into scalable web solutions.
   - Spearheaded server configurations and security improvements.
   - Contributed to custom WordPress plugins and themes.
 
@@ -116,6 +116,7 @@ Welcome to my GitHub! With over 5 years of hands-on experience, I specialize in 
 - 💼 [LinkedIn](https://www.linkedin.com/in/islam-kadous-b3a08b1bb)
 - 🐦 [X (Twitter)](https://x.com/islamadelkadous)
 - ✉️ [Email](mailto:islamadelkadous@gmail.com)
+- 📞 [+201283840182](tel:+201283840182)
 
 ---
 
